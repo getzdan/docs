@@ -85,7 +85,7 @@ your `index.html` file. This file should import the app shell file specified in 
 
 ### --html-minify {#html-minify}
 
-Minify HTMl by removing comments and whitespace.
+Minify HTML by removing comments and whitespace.
 
 ### --insert-prefetch-links {#prefetch}
 Insert prefetch link elements into your fragments so that all dependencies are prefetched
